@@ -1,7 +1,7 @@
 {
     "name": "Exe-And-Chill-Launcher",
     "preductname": "Exe And Chill Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Exe And Chill",
     "main": "src/app.js",
     "author": {
